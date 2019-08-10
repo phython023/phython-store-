@@ -45,7 +45,7 @@ class ProductProvider extends Component {
        this.setState(()=>{
         return{ detailProduct:product}
        })
-
+ 
     }
 
     addToCart = (id) =>{

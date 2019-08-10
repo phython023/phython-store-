@@ -61,7 +61,7 @@ export default class Details extends Component {
                                         added to cart
                                         </span>):
                                         (<span className="mr-2">
-                                        <i className='fas fa-cart-plus'></i>
+                                        <i className='fas fa-shopping-cart'></i>
                                         add to cart
                                         </span>)
                                              }
